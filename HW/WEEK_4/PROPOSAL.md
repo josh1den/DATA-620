@@ -1,9 +1,5 @@
 ## DATA620 Spring 2023  
-
-### Team Members:  
-
-Josh Iden  
-Wilson Ng  
+### Josh Iden
 
 ![](https://github.com/josh1den/DATA620-GROUP/blob/main/HW1/IMG/ASSIGNMENT.png)
 
