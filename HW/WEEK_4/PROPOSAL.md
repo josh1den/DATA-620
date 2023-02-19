@@ -1,11 +1,11 @@
 ## DATA620 Spring 2023  
 ### Josh Iden
 
-![](https://github.com/josh1den/DATA620-GROUP/blob/main/HW1/IMG/ASSIGNMENT.png)
+![](https://github.com/josh1den/DATA-620/blob/main/HW/WEEK_4/IMG/ASSIGNMENT.png)
 
 ### Proposed Data Source  
 
-For this assignment, we propose using the **Social Network: MOOC User Action Dataset** data compiled by the Stanford Network Analysis Project (SNAP). 
+This assignment will look at the **Social Network: MOOC User Action Dataset** data compiled by the Stanford Network Analysis Project (SNAP). 
 
 Source: [https://snap.stanford.edu/data/act-mooc.html](https://snap.stanford.edu/data/act-mooc.html)
 
@@ -23,6 +23,6 @@ The dataset contains three files:
 
 ### Load & Analysis Plan  
 
-Our analysis will focus on the hypothetical outcome, can degree centrality be used to predict the total number of actions taken before dropping out of the course. 
+This analysis will focus on the hypothetical outcome, can degree centrality be used to predict the total number of actions taken before dropping out of the course. 
 
 The individual data files will be loaded into pandas dataframes and combined into one master edge list containing the categorical feature, and read from pandas into a networkx Graph object. 
