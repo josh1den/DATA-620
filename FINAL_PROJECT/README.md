@@ -6,4 +6,15 @@ In this project, I will analyze data from 6000 Pitchfork reviews from 2018 to 20
 
 I have acquired this [data](https://github.com/josh1den/DATA-620/tree/main/FINAL_PROJECT/data) by writing an original [script](https://github.com/josh1den/DATA-620/tree/main/FINAL_PROJECT/scripts) identifying the review pages and extracting the following data fields:
 
-- **Arist**, *the artist name*
+- **Artist**, *the artist name*
+- **Album**, *the album being reviewed*
+- **Genre**, *the genre of music*
+- **Label**, *the record label releasing the album*
+- **Release Year**, *the year the album is released*
+- **Author**, *the writer of the review*
+- **Published**, *publishing date of the review*
+- **Best New Music**, *whether the review received Best New Music*
+- **Best New Reissue**, *whether the review received Best New Reissue*
+- **Score**, *album's ratings score*
+- **Review**, *full text of the album review*
+- **URL**, *link to the review*
